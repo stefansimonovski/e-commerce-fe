@@ -49,7 +49,7 @@
             <span>
               <Icon class="w-4 h-4 " name="phone-call" />
             </span>
-            <p>+389 75123456</p>
+            <p>+389 75255194</p>
           </li>
 
           <li

@@ -18,3 +18,7 @@
 - Server Side Rendered, so some basic SEO functionalities included
 - Admin dashboard to control products, categories, filters
 
+
+## API
+
+https://github.com/stefansimonovski/e-commerce-be
